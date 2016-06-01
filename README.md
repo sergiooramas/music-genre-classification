@@ -2,6 +2,7 @@
 
 A subset of the <a href="http://mtg.upf.edu/download/datasets/mard">MARD dataset</a> was created for genre classification experiments. It contains 100 albums by genre from different artists, from 13 different genres. All the albums have been mapped to MusicBrainz and AcousticBrainz. It contains linguistic and sentiment features. It is stored as a dictionary, where the keys are the amazon-ids. The file is called <b>classification_dataset.json</b>
 <br/>
+<br/>
 We also provide all the necessary files to reproduce the experiments on genre classification in the paper referenced below. entity_features_dataset.json contains the entities and categories identified in the reviews for every album, entity_features_dataset_broader.json contains also the broader Wikipedia categories, genre_classification.py is the Python script used for the experiment. Finally, train_x.csv and test_x.csv contains the 5 different splits in the dataset used for cross validation. Everything is available in the following GitHub repository
 
 ## References
