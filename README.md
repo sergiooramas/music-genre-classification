@@ -8,7 +8,7 @@ We also provide all the necessary files to reproduce the experiments on genre cl
 
 If you use this code for research purposes, please cite our <a target="_blank" href="http://mtg.upf.edu/node/3451">paper</a>:
 
-Sergio Oramas, Luis Espinosa-Anke, Mohamed Sordo, Horacio Saggion, and Xavier Serra. 2016. ELMD : An Automatically Generated Entity Linking Gold Standard Dataset in the Music Domain. In In Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016.
+Oramas, S., Espinosa-Anke L., Lawlor A., Serra X., & Saggion H. (2016). Exploring Customer Reviews for Music Genre Classification and Evolutionary Studies. 17th International Society for Music Information Retrieval Conference (ISMIR'16).
 
 ## License
 
