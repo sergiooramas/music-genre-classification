@@ -6,7 +6,7 @@ We also provide all the necessary files to reproduce the experiments on genre cl
 
 ## References
 
-If you use this code for research purposes, please cite our <a target="_blank" href="http://mtg.upf.edu/node/3451">paper</a>:
+If you use this code for research purposes, please cite our <a target="_blank" href="http://mtg.upf.edu/node/3490">paper</a>:
 
 Oramas, S., Espinosa-Anke L., Lawlor A., Serra X., & Saggion H. (2016). Exploring Customer Reviews for Music Genre Classification and Evolutionary Studies. 17th International Society for Music Information Retrieval Conference (ISMIR'16).
 
